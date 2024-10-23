@@ -11,4 +11,3 @@
         Console.WriteLine(Object.ReferenceEquals(l1, l2));  
     }
 }
-
